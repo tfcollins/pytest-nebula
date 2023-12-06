@@ -1,0 +1,10 @@
+site_name: pytest-nebula
+site_description: pytest plugin for nebula dev kit manager
+site_author: Travis Collins
+
+theme: readthedocs
+
+repo_url: https://github.com/tfcollins/pytest-nebula
+
+pages:
+- Home: index.md
